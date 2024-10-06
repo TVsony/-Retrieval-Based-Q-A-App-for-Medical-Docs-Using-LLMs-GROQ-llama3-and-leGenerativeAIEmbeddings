@@ -1,0 +1,1 @@
+# -Retrieval-Based-Q-A-App-for-Medical-Docs-Using-LLMs-GROQ-llama3-and-leGenerativeAIEmbeddings
